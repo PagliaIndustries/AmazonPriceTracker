@@ -2,10 +2,12 @@
 <p>Track Product's Prices From Amazon</p>
 
 <p>
-  Download the app (exe file) from Releases and select the AmazonPriceTracker Table in the GUI.<br>
-  Type in the Product's Name, Amazon URL, and you're Budget/Alert Price. Then hit <i>Enter</i> so the changes are saved to the database.<br>
-  Then hit the <i>Launch Program</i> button and it should work.<br>
-  The prices will display and the program will automatically exit after 60sec.
+  <ul>
+  <li>Download the app (exe file) from Releases and select the AmazonPriceTracker Table in the GUI</li>
+  <li>Type in the Product's Name, Amazon URL, and you're Budget/Alert Price. Then hit <i>Enter</i> so the changes are saved to the database</li>
+  <li>Then hit the <i>Launch Program</i> button and it should work</li>
+    <li>The prices will display and the program will automatically exit after 60sec</li>
+    </ul>
   </p>
 
 
