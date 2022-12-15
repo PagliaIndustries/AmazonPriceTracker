@@ -1,5 +1,4 @@
 # AmazonPriceTracker
-<h1>Amazon Price Tracker</h1>
 <p>Track Product's Prices From Amazon</p>
 
 
